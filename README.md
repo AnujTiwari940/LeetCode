@@ -45,6 +45,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnujTiwari940/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnujTiwari940/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/AnujTiwari940/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AnujTiwari940/leetcode/tree/master/0141-linked-list-cycle) |
@@ -111,6 +112,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
@@ -123,4 +125,12 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
