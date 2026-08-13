@@ -85,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/AnujTiwari940/leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
