@@ -1,21 +1,21 @@
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
-        for (int i = 0; i < s.length(); i++) {//running loop for string s
-            char ch = s.charAt(i);//holding values of string in ch one by one
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
             if (ch == '(' || ch == '{' || ch == '[') {
-                st.push(ch);//if opening brackets then push in stack
+                st.push(ch);
             } else {
                 if (st.isEmpty()) {
                     return false;
                 }
 
-                char top = st.peek();//holding peek in top
+                char top = st.peek();
 
                 if ((ch == ')' && top == '(') ||
                     (ch == '}' && top == '{') ||
                     (ch == ']' && top == '[')) {
-                    st.pop();//if peek is opening bracket and then we got same closing then pop top
+                    st.pop();
                 } else {
                     return false;
                 }
