@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnujTiwari940/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AnujTiwari940/leetcode/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AnujTiwari940/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -133,6 +134,7 @@
 | [0020-valid-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AnujTiwari940/leetcode/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -151,5 +153,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
