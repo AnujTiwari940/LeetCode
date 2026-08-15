@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/AnujTiwari940/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -155,4 +156,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AnujTiwari940/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
