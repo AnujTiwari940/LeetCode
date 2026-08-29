@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0054-spiral-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/AnujTiwari940/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/AnujTiwari940/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
@@ -186,6 +189,7 @@
 | [0100-same-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -213,6 +217,7 @@
 | [0100-same-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
