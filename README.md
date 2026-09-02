@@ -202,6 +202,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AnujTiwari940/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/AnujTiwari940/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnujTiwari940/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/AnujTiwari940/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AnujTiwari940/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/AnujTiwari940/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,4 +248,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/AnujTiwari940/leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
