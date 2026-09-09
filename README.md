@@ -18,6 +18,7 @@
 | [0503-next-greater-element-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AnujTiwari940/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0867-transpose-matrix) |
+| [1046-last-stone-weight](https://github.com/AnujTiwari940/leetcode/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnujTiwari940/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -166,6 +167,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujTiwari940/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/AnujTiwari940/leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
