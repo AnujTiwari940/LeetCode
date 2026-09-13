@@ -30,6 +30,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/AnujTiwari940/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/AnujTiwari940/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AnujTiwari940/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AnujTiwari940/leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -85,6 +86,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujTiwari940/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnujTiwari940/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/AnujTiwari940/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/AnujTiwari940/leetcode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -167,6 +169,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujTiwari940/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/AnujTiwari940/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/AnujTiwari940/leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -187,6 +190,7 @@
 | [0155-min-stack](https://github.com/AnujTiwari940/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AnujTiwari940/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnujTiwari940/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/AnujTiwari940/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -294,4 +298,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujTiwari940/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AnujTiwari940/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
