@@ -20,6 +20,7 @@
 | [0867-transpose-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/AnujTiwari940/leetcode/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnujTiwari940/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3731-find-missing-elements](https://github.com/AnujTiwari940/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/AnujTiwari940/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/AnujTiwari940/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AnujTiwari940/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/AnujTiwari940/leetcode/tree/master/0455-assign-cookies) |
+| [3731-find-missing-elements](https://github.com/AnujTiwari940/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
