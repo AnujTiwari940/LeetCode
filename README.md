@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnujTiwari940/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AnujTiwari940/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnujTiwari940/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujTiwari940/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -102,6 +103,7 @@
 | [0009-palindrome-number](https://github.com/AnujTiwari940/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/AnujTiwari940/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/AnujTiwari940/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujTiwari940/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -154,6 +156,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AnujTiwari940/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnujTiwari940/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
