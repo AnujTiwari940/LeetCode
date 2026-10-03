@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/AnujTiwari940/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnujTiwari940/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -48,6 +49,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AnujTiwari940/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AnujTiwari940/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AnujTiwari940/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnujTiwari940/leetcode/tree/master/0231-power-of-two) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/AnujTiwari940/leetcode/tree/master/0078-subsets) |
 ## Greedy
 |  |
 | ------- |
