@@ -107,6 +107,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AnujTiwari940/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/AnujTiwari940/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/AnujTiwari940/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AnujTiwari940/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/AnujTiwari940/leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/AnujTiwari940/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AnujTiwari940/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnujTiwari940/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnujTiwari940/leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AnujTiwari940/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
