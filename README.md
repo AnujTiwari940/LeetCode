@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/AnujTiwari940/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnujTiwari940/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/AnujTiwari940/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/AnujTiwari940/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AnujTiwari940/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnujTiwari940/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
