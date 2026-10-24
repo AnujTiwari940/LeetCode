@@ -25,6 +25,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/AnujTiwari940/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/AnujTiwari940/leetcode/tree/master/1046-last-stone-weight) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AnujTiwari940/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnujTiwari940/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3731-find-missing-elements](https://github.com/AnujTiwari940/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -135,6 +136,7 @@
 | [0198-house-robber](https://github.com/AnujTiwari940/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AnujTiwari940/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnujTiwari940/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AnujTiwari940/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0064-minimum-path-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0867-transpose-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AnujTiwari940/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
