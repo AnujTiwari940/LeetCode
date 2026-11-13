@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnujTiwari940/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AnujTiwari940/leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AnujTiwari940/leetcode/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnujTiwari940/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -134,6 +135,7 @@
 | [0063-unique-paths-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/AnujTiwari940/leetcode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AnujTiwari940/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnujTiwari940/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AnujTiwari940/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/AnujTiwari940/leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -350,4 +353,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnujTiwari940/leetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
