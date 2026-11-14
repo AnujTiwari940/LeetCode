@@ -127,6 +127,7 @@
 | [0022-generate-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/AnujTiwari940/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnujTiwari940/leetcode/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/AnujTiwari940/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/AnujTiwari940/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -138,6 +139,7 @@
 | [0198-house-robber](https://github.com/AnujTiwari940/leetcode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AnujTiwari940/leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/AnujTiwari940/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnujTiwari940/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/AnujTiwari940/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AnujTiwari940/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
