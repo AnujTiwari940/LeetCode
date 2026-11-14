@@ -1,5 +1,5 @@
 class Solution {
-    public int minInsertions(String s) {//for min. insertion steps to make a string palindrome [return s.length-LPS(longest common subsequence)]
+    public int minInsertions(String s) {//for min. insertion steps to make a string palindrome [return s.length-LPS(longest palindrome subsequence)]
         int n = s.length();
         int dp[][] = new int[n][n];
         for (int i = 0; i < n; i++) {
