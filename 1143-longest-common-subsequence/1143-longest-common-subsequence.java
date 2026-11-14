@@ -8,9 +8,9 @@ class Solution {
                 dp[i][j]=-1;
             }
         }
-        return helper(m-1,n-1,new StringBuilder(text1),new StringBuilder(text2),dp);
+        return helper(m-1,n-1,text1,text2,dp);
     }
-    static int helper(int i,int j,StringBuilder text1,StringBuilder text2,int dp[][]){
+    static int helper(int i,int j,String text1,String text2,int dp[][]){
         if(i<0 ||j<0)return 0;//there is nothing in common
         if(dp[i][j]!=-1)return dp[i][j];//visited
         if(text1.charAt(i)==text2.charAt(j)) return dp[i][j]=1+helper(i-1,j-1,text1,text2,dp);
