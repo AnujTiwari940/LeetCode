@@ -125,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnujTiwari940/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnujTiwari940/leetcode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/AnujTiwari940/leetcode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/AnujTiwari940/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnujTiwari940/leetcode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnujTiwari940/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -137,6 +138,7 @@
 | [0062-unique-paths](https://github.com/AnujTiwari940/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/AnujTiwari940/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/AnujTiwari940/leetcode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/AnujTiwari940/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AnujTiwari940/leetcode/tree/master/0509-fibonacci-number) |
